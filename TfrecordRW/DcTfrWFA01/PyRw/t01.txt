@@ -1,0 +1,23 @@
+> Files
+ D:\SpecialProjects\TfrecordRW\DcTfrWFA01\DcTfrWFA01\bin\Debug\net5.0-windows\gba_spl_train50.tfrecord
+ D:\SpecialProjects\TfrecordRW\DcTfrWFA01\DcTfrWFA01\bin\Debug\net5.0-windows\gba_spl_train51.tfrecord
+ D:\SpecialProjects\TfrecordRW\DcTfrWFA01\DcTfrWFA01\bin\Debug\net5.0-windows\gba_spl_train52.tfrecord
+> marks
+ claes
+ lamd
+> expdatas
+ VV	7,7
+ B11	7,7
+ B12	7,7
+ VH_1	7,7
+ slope	7,7
+ B2	7,7
+ B3	7,7
+ VH	7,7
+ B4	7,7
+ B8	7,7
+ VV_1	7,7
+> clfile
+ D:\SpecialProjects\TfrecordRW\DcTfrWFA01\DcTfrWFA01\bin\Debug\net5.0-windows\cl_.txt
+> dfile
+ D:\SpecialProjects\TfrecordRW\DcTfrWFA01\DcTfrWFA01\bin\Debug\net5.0-windows\d_.txt

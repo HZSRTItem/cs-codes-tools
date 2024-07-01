@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+
+    <PropertyGroup>
+        <TargetFramework>net472</TargetFramework>
+        <Product>DemoWinForm</Product>
+        <Copyright>
+            Copyright © 2006 iter.dk
+            Copyright 2008-2019 SharpMap - Team
+        </Copyright>
+        <PackageTags>sharpmap demowinform</PackageTags>
+        <ApplicationIcon />
+        <OutputType>WinExe</OutputType>
+        <StartupObject>DemoWinForm.Program</StartupObject>
+        <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+        <NoWarn>618;1701;1702;1591</NoWarn>
+
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Reference Include="System.Windows" />
+        <Reference Include="System.Windows.Forms" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="ProjNet4GeoAPI" Version="1.4.1" />
+        <PackageReference Include="SharpMap" Version="1.2.0" />
+        <PackageReference Include="SharpMap.Extensions" Version="1.2.0" />
+        <PackageReference Include="SharpMap.Layers.BruTile" Version="1.2.0" />
+        <PackageReference Include="SharpMap.UI" Version="1.2.0" />
+        <PackageReference Include="SharpMap.Web" Version="1.2.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Update="Data\**">
+            <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </None>
+    </ItemGroup>
+
+</Project>

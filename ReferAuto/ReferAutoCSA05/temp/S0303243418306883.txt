@@ -1,0 +1,24 @@
+TY  - JOUR
+T1  - A Nighttime Lights Adjusted Impervious Surface Index (NAISI) with Integration of Landsat Imagery and Nighttime Lights Data from International Space Station
+AU  - Chen, Xiaolin
+AU  - Jia, Xiuping
+AU  - Pickering, Mark
+JO  - International Journal of Applied Earth Observation and Geoinformation
+VL  - 83
+SP  - 101889
+PY  - 2019
+DA  - 2019/11/01/
+SN  - 0303-2434
+DO  - https://doi.org/10.1016/j.jag.2019.05.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0303243418306883
+KW  - Impervious
+KW  - Surface
+KW  - Landsat
+KW  - Nighttime lights
+KW  - International space station
+AB  - Accurate mapping of impervious surface is essential for both urbanization monitoring and micro-ecosystem research. However, the confusion between impervious surface and bare soil is the major concern due to their high spectral similarity in optical imagery. Integration of multi-sensor images is considered to offer a better capacity for distinguishing impervious surface from background. In this paper, a new impervious surface index namely nighttime light adjusted impervious surface index (NAISI), which integrates information from Landsat and nighttime lights (NTL) data from International Space Station (NTL-ISS), is proposed. Parallel to baseline subtraction approaches, NAISI integrate the information from the first component of principal component (PC) transformation of NTL-ISS, the Soil Adjusted Vegetation Index (SAVI) and the third component of tasseled cap transform (TC3) of the Landsat data. Visual interpretation and quantitative indices (SDI, Kappa and overall accuracy) were adopted to elevate the accuracy and separability of NAISI. Comparative analysis with NTL derived light intensity, optical indices, as well as existing optical-NTL indices were conducted to examine the performance of NAISI. Results indicate that NAISI achieves a more promising capability in impervious surface mapping. This demonstrates the superiority of integration of optical and nighttime lights information for imperviousness detection.
+ER  - 
+
+[1] Chen X ,  Jia X ,  Pickering M . 
+A Nighttime Lights Adjusted Impervious Surface Index (NAISI) with Integration of Landsat Imagery and Nighttime Lights Data from International Space Station[J]. 
+International Journal of Applied Earth Observation and Geoinformation, 2019, 83:101889.

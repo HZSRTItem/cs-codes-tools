@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tfr2NpyCSA", "Tfr2NpyCSA\Tfr2NpyCSA.csproj", "{2F84949B-8417-43FD-A565-4BCDCD8A0F7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFRecordCore", "..\Tfr2CsvCSA\TFRecordCore\TFRecordCore.csproj", "{6F704007-C86B-47DD-9E32-41E2EC65C6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F84949B-8417-43FD-A565-4BCDCD8A0F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F84949B-8417-43FD-A565-4BCDCD8A0F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F84949B-8417-43FD-A565-4BCDCD8A0F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F84949B-8417-43FD-A565-4BCDCD8A0F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F704007-C86B-47DD-9E32-41E2EC65C6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F704007-C86B-47DD-9E32-41E2EC65C6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F704007-C86B-47DD-9E32-41E2EC65C6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F704007-C86B-47DD-9E32-41E2EC65C6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42A82592-2830-44E0-B6C5-3B0B4EE8355B}
+	EndGlobalSection
+EndGlobal

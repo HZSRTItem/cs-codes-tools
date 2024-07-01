@@ -1,0 +1,163 @@
+AddSpaceBetweenFarEastAndAlpha	
+确定是否将 Microsoft Word 设置为在指定段落的日语和西文文字之间自动添加空格。
+
+AddSpaceBetweenFarEastAndDigit	
+确定是否将 Microsoft Word 设置为在日语文本和数字之间为指定段落自动添加空格。
+
+Alignment	
+返回或设置一个 WdParagraphAlignment 常量，该常量代表指定段落的对齐方式。
+
+Application	
+返回一个 Application 代表 Microsoft Word 应用程序的对象。
+
+AutoAdjustRightIndent	
+确定是否将 Microsoft Word 设置为自动调整指定段落的右缩进（如果已指定每行的字符数）。
+
+BaseLineAlignment	
+返回或设置一个 WdBaselineAlignment 常量，该常量代表字体在线条上的垂直位置。
+
+Borders	
+返回一个 Borders 集合，该集合代表指定对象的所有边框。
+
+CharacterUnitFirstLineIndent	
+返回或设置首行或悬挂缩进的值 (以字符为单位)。
+
+CharacterUnitLeftIndent	
+返回或设置指定段落的左缩进值 (以字符为单位)。
+
+CharacterUnitRightIndent	
+该属性返回或设置指定段落的右缩进量（以字符为单位）。
+
+CollapsedState	
+返回或设置指定段落当前是否处于折叠状态。 读写布尔值（在 c # 中为bool ）。
+
+CollapseHeadingByDefault	
+返回或设置在加载文档时是否默认折叠指定段落。 读写布尔值（在 c # 中为bool ）。
+
+Creator	
+返回一个 32 位整数，它指示在其中创建指定的对象的应用程序。
+
+DisableLineHeightGrid	
+确定在指定每页的行数时，Microsoft Word 是否将指定段落中的字符与行网格对齐。
+
+DropCap	
+返回一个 DropCap 对象，表示指定段落的首字下沉字母。
+
+FarEastLineBreakControl	
+确定 Microsoft Word 是否对指定段落应用东亚语言换行规则。
+
+FirstLineIndent	
+返回或设置首行的行或悬挂缩进的值 (以磅为单位)。
+
+Format	
+返回或设置一个 ParagraphFormat 对象，表示指定的一个或多个段落的格式。
+
+HalfWidthPunctuationOnTopOfLine	
+确定是否 Microsoft Word 将行首的标点符号更改为指定段落的半角字符。
+
+HangingPunctuation	
+确定是否为指定段落启用标点溢出边界。
+
+Hyphenation	
+确定是否在自动断字中包含指定的段落。
+
+ID	
+返回或设置指定对象的标识标签当前文档保存为 Web 页时。
+
+IsStyleSeparator	
+确定段落是否包含特殊的隐藏段落标记，使 Microsoft Word 能够显示不同段落样式的段落。
+
+KeepTogether	
+确定当 Microsoft Word 对文档重新分页时，指定段落中的所有行是否保持在同一页上。
+
+KeepWithNext	
+确定当 Microsoft Word 对文档重新分页时，指定的段落是否保留在与其后的段落相同的页面上。
+
+LeftIndent	
+返回或设置一个Single类型的值，该值代表指定段落、表格行或 HTML 划分的左缩进值（以磅为单位）。
+
+LineSpacing	
+返回或设置指定段落的行距 (以磅为单位)。
+
+LineSpacingRule	
+返回或设置指定段落的行距。
+
+LineUnitAfter	
+返回或设置指定段落的段后间距 (以网格线)。
+
+LineUnitBefore	
+返回或设置指定段落的段前间距 (以网格线) 的数量。
+
+ListNumberOriginal[Int16]	
+返回一个 Integer 类型的值，该值代表段落的原始列表级别。 只读。
+
+MirrorIndents	
+返回或设置一个Integer类型的值，该值代表左侧和右侧缩进的宽度是否相同。 可以为True、 False或 wdUndefined 。 读/写。
+
+NoLineNumber	
+确定是否取消指定段落的行号。
+
+OutlineLevel	
+返回或设置指定段落的大纲级别。
+
+PageBreakBefore	
+确定在指定段落前是否强制分页。
+
+ParaID	
+仅供内部使用。
+
+Parent	
+返回一个对象，代表指定对象的父对象。
+
+Range	
+返回一个 Range object 类型的对象，该对象代表指定对象中包含的文档部分。
+
+ReadingOrder	
+返回或设置指定段落的读取次序而不改变其对齐方式。
+
+RightIndent	
+返回或设置指定段落的右缩进量（以磅为单位）。
+
+Shading	
+返回一个 Shading 对象，该对象代表指定对象的底纹格式。
+
+SpaceAfter	
+返回或设置指定段落或文本栏后面的间距 (以磅为单位) 的数量。
+
+SpaceAfterAuto	
+确定是否 Microsoft Word 自动设置指定段落的段后间距。
+
+SpaceBefore	
+返回或设置指定段落的段前间距 (以磅为单位)。
+
+SpaceBeforeAuto	
+确定是否 Microsoft Word 自动设置指定段落的段前间距。
+
+Style	
+返回或设置指定对象的样式。
+
+TabStops	
+返回或设置一个 TabStops 集合，该集合代表指定段落的所有自定义制表位。
+
+TextboxTightWrap	
+返回或设置一个 WdTextboxTightWrap 常量，表示文字环绕形状或文本框的紧密程度。 读/写。
+
+TextID	
+仅供内部使用。
+
+WidowControl	
+确定当 Microsoft Word 对文档重新分页时，指定段落中的第一行和最后一行是否与段落的其余部分保持一致。
+
+WordWrap	
+确定 Microsoft Word 是否将西文文本在指定段落或文本框架中的单词中间换行。
+
+
+Center        居中
+Distribute   分配
+Justify   证明正当
+JustifyHi   证明
+JustifyLow   辩护
+JustifyMed   正当的
+Left   左边
+Right   正当
+ThaiJustify   泰胡斯蒂

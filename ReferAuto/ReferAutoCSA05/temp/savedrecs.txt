@@ -1,0 +1,41 @@
+﻿TY  - JOUR
+AU  - Chen, XL
+AU  - Jia, XP
+AU  - Pickering, M
+TI  - A Nighttime Lights Adjusted Impervious Surface Index (NAISI) with Integration of Landsat Imagery and Nighttime Lights Data from International Space Station
+T2  - INTERNATIONAL JOURNAL OF APPLIED EARTH OBSERVATION AND GEOINFORMATION
+LA  - English
+KW  - Impervious
+KW  - Surface
+KW  - Landsat
+KW  - Nighttime lights
+KW  - International space station
+KW  - CAP TRANSFORMATION
+KW  - TASSELLED CAP
+KW  - TIME-SERIES
+KW  - URBAN AREAS
+KW  - CHINA
+KW  - URBANIZATION
+KW  - EXTRACTION
+KW  - DERIVATION
+KW  - DENSITY
+AB  - Accurate mapping of impervious surface is essential for both urbanization monitoring and micro-ecosystem research. However, the confusion between impervious surface and bare soil is the major concern due to their high spectral similarity in optical imagery. Integration of multi-sensor images is considered to offer a better capacity for distinguishing impervious surface from background. In this paper, a new impervious surface index namely nighttime light adjusted impervious surface index (NAISI), which integrates information from Landsat and nighttime lights (NTL) data from International Space Station (NTL-ISS), is proposed. Parallel to baseline subtraction approaches, NAISI integrate the information from the first component of principal component (PC) transformation of NTL-ISS, the Soil Adjusted Vegetation Index (SAVI) and the third component of tasseled cap transform (TC3) of the Landsat data. Visual interpretation and quantitative indices (SDI, Kappa and overall accuracy) were adopted to elevate the accuracy and separability of NAISI. Comparative analysis with NTL derived light intensity, optical indices, as well as existing optical-NTL indices were conducted to examine the performance of NAISI. Results indicate that NAISI achieves a more promising capability in impervious surface mapping. This demonstrates the superiority of integration of optical and nighttime lights information for imperviousness detection.
+AD  - Univ New South Wales, Sch Engn & Informat Technol, Canberra, ACT 2600, Australia
+PU  - ELSEVIER
+PI  - AMSTERDAM
+PA  - RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN  - 1569-8432
+SN  - 1872-826X
+J9  - INT J APPL EARTH OBS
+JI  - Int. J. Appl. Earth Obs. Geoinf.
+DA  - NOV
+PY  - 2019
+VL  - 83
+DO  - 10.1016/j.jag.2019.05.022
+WE  - Science Citation Index Expanded (SCI-EXPANDED)
+AN  - WOS:000487574200021
+N1  - Times Cited in Web of Science Core Collection:  5
+Total Times Cited:  5
+Cited Reference Count:  50
+ER  -
+

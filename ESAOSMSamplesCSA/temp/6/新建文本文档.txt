@@ -1,0 +1,7 @@
+D:\SpecialProjects\ogr2ogrtest\tt\Library\bin\ogr2ogr.exe -overwrite -oo AUTODETECT_TYPE=YES -oo GEOM_POSSIBLE_NAMES=WKT -oo KEEP_GEOM_COLUMNS=NO  -a_srs "GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]" -f "ESRI Shapefile" "D:\CodeProjects\Samples\ESAOSMSamplesCSA\temp\6\point1.shp" "D:\CodeProjects\Samples\ESAOSMSamplesCSA\temp\6\point1.csv"
+D:\SpecialProjects\ogr2ogrtest\tt\Library\bin\ogr2ogr.exe -overwrite -oo AUTODETECT_TYPE=YES -oo GEOM_POSSIBLE_NAMES=WKT -oo KEEP_GEOM_COLUMNS=NO "GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]" "D:\CodeProjects\Samples\ESAOSMSamplesCSA\temp\6\point1.shp" "D:\CodeProjects\Samples\ESAOSMSamplesCSA\temp\6\point1.csv"
+
+ogr2ogr.exe -overwrite -oo AUTODETECT_TYPE=YES -a_srs "GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]" -f "ESRI Shapefile" "point1.shp" "point1.csv"
+
+
+

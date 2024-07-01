@@ -1,0 +1,6 @@
+Class OneSample:
+
+    int X;
+    int Y;
+    
+    string 

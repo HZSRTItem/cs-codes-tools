@@ -1,0 +1,27 @@
+TY  - JOUR
+T1  - Early- and in-season crop type mapping without current-year ground truth: Generating labels from historical information via a topology-based approach
+AU  - Lin, Chenxi
+AU  - Zhong, Liheng
+AU  - Song, Xiao-Peng
+AU  - Dong, Jinwei
+AU  - Lobell, David B.
+AU  - Jin, Zhenong
+JO  - Remote Sensing of Environment
+VL  - 274
+SP  - 112994
+PY  - 2022
+DA  - 2022/06/01/
+SN  - 0034-4257
+DO  - https://doi.org/10.1016/j.rse.2022.112994
+UR  - https://www.sciencedirect.com/science/article/pii/S0034425722001080
+KW  - Early-season mapping
+KW  - Machine learning
+KW  - Transfer learning
+KW  - Remote sensing
+KW  - Agriculture
+KW  - Crop
+KW  - Classification
+KW  - Sentinel-2
+KW  - Landsat
+AB  - Land cover classification in remote sensing is often faced with the challenge of limited ground truth labels. Incorporating historical ground information has the potential to significantly lower the expensive cost associated with collecting ground truth and, more importantly, enable early- and in-season mapping that is helpful to many pre-harvest decisions. In this study, we propose a new approach that can effectively transfer knowledge about the topology (i.e. relative position) of different crop types in the spectral feature space (e.g. the histogram of SWIR1 vs RDEG1 bands) to generate labels, thereby supporting crop classification in a different year. Importantly, our approach does not attempt to transfer classification decision boundaries that are susceptible to inter-annual variations of weather and management, but relies on the more robust and shift-invariant topology information. We tested this approach for mapping corn/soybeans in the US Midwest, paddy rice/corn/soybeans in Northeast China and multiple crops in Northern France using Landsat-8 and Sentinel-2 data. Results show that our approach automatically generates high-quality labels for crops in the target year immediately after each image becomes available. Based on these generated labels from our approach, the subsequent crop type mapping using a random forest classifier can reach the F1 score as high as 0.887 for corn as early as the silking stage and 0.851 for soybean as early as the flowering stage and the overall accuracy of 0.873 in the test state of Iowa. In Northeast China, F1 scores of paddy rice, corn and soybeans and the overall accuracy can exceed 0.85 two and half months ahead of harvest. In the Hauts-de-France region, the OA of multiple crop mapping could reach 0.837 based on labels generated from our approach. Overall, these results highlight the unique advantages of our approach in transferring historical knowledge and maximizing the timeliness of crop maps. Our approach supports a general paradigm shift towards learning transferrable and generalizable knowledge to facilitate land cover classification.
+ER  - 

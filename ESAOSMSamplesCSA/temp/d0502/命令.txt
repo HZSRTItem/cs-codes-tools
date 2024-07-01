@@ -1,0 +1,1 @@
+ogr2ogr -update -sql "alter table railway1 drop column chang01" railway1.shp railway1.shp

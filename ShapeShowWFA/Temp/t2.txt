@@ -1,0 +1,49 @@
+INFO: Open of `NewPoint.shp'
+      using driver `ESRI Shapefile' successful.
+
+Layer name: NewPoint
+Metadata:
+  DBF_DATE_LAST_UPDATE=2022-03-25
+Geometry: Point
+Feature Count: 8
+Extent: (111.300898, 23.500898) - (113.839092, 24.556971)
+Layer SRS WKT:
+GEOGCS["GCS_WGS_1984",
+    DATUM["WGS_1984",
+        SPHEROID["WGS_84",6378137.0,298.257223563]],
+    PRIMEM["Greenwich",0.0],
+    UNIT["Degree",0.0174532925199433],
+    AUTHORITY["EPSG","4326"]]
+Id: Integer (6.0)
+OGRFeature(NewPoint):0
+  Id (Integer) = 0
+  POINT (112.0991016847 23.7860255728685)
+
+OGRFeature(NewPoint):1
+  Id (Integer) = 0
+  POINT (112.1008983153 24.437997888466)
+
+OGRFeature(NewPoint):2
+  Id (Integer) = 0
+  POINT (113.4991016847 24.5569709387576)
+
+OGRFeature(NewPoint):3
+  Id (Integer) = 0
+  POINT (113.8390923108 23.5008983153)
+
+OGRFeature(NewPoint):4
+  Id (Integer) = 0
+  POINT (112.5008983153 23.9811413753466)
+
+OGRFeature(NewPoint):5
+  Id (Integer) = 0
+  POINT (113.0991016847 23.8621683250551)
+
+OGRFeature(NewPoint):6
+  Id (Integer) = 0
+  POINT (111.3008983153 23.8991016847)
+
+OGRFeature(NewPoint):7
+  Id (Integer) = 0
+  POINT (112.035460868381 24.3008983153)
+

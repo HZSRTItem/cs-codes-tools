@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScienceDirectReferenceWFA", "ScienceDirectReferenceWFA.csproj", "{375B8952-C082-4AD6-9A99-19D7B3CBA74E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{375B8952-C082-4AD6-9A99-19D7B3CBA74E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375B8952-C082-4AD6-9A99-19D7B3CBA74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375B8952-C082-4AD6-9A99-19D7B3CBA74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375B8952-C082-4AD6-9A99-19D7B3CBA74E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF99FD23-6F0A-4FFD-B2AF-64E1AE326763}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+TY  - JOUR
+TI  - A Nighttime Lights Adjusted Impervious Surface Index (NAISI) with Integration of Landsat Imagery and Nighttime Lights Data from International Space Station
+AU  -  Chen, X. 
+AU  -  Jia, X. 
+AU  -  Pickering, M. 
+JF  - International Journal of Applied Earth Observation and Geoinformation
+VL  - 83
+SP  - 101889
+PY  - 2019
+ER  -
